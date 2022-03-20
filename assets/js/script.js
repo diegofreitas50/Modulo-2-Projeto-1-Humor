@@ -12,20 +12,20 @@ const images = [
 ];
 
 const situacao = [
-    "Situação: Sendo lindo", 
-    "Situação: Brincando", 
-    "Situação: Dormindo",
-    "Situação: Comendo",
-    "Situação: Bucho cheio",
-    "Situação: Maloqueiro",
-    "Situação: Bêbado",
-    "Situação: +18"
+    "Fase: Sendo lindo", 
+    "Fase: Brincando", 
+    "Fase: Dormindo",
+    "Fase: Comendo",
+    "Fase: Bucho cheio",
+    "Fase: Maloqueiro",
+    "Fase: Bêbado",
+    "Fase: +18"
 ];
 
 const nome = [
     "Nome: Gatito", 
     "Nome: Doido das caixas", 
-    "Nome: Gatito tatuzinho",
+    "Nome: Gatito tatu",
     "Nome: Gatito guloso",
     "Nome: Barrigudo",
     "Nome: Das quebradas",
